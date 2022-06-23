@@ -1,0 +1,4 @@
+*.wav
+clap/*.wav
+output/clap/*.wav
+output/clap1/*.wav
